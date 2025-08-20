@@ -1,0 +1,8 @@
+ten-vad
+tornado
+requests
+websocket-client
+soundfile
+numpy
+matplotlib
+librosa
