@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+# Generated files
+vad_compare.png
+data/*
